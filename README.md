@@ -41,7 +41,7 @@ The objective was to identify:
 
 ## 📈 Executive Dashboard Preview
 
-![Dashboard Preview]([images/dashboard_preview.png](https://github.com/pfhuamanflores/battle-royale-nps-analysis/blob/main/battle-royale-nps-analysis/images/dashboard_preview.png))
+![Dashboard Preview](battle-royale-nps-analysis/images/dashboard_preview.png)
 
 ---
 
